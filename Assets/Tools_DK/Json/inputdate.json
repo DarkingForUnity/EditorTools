@@ -1,0 +1,32 @@
+﻿{
+    "name": "Skill Data",
+    "Total": 4,
+    "_skills": [
+        {
+            "id": 2,
+            "name": "技能0",
+            "sprite_skill": {
+                "instanceID": 840
+            },
+            "describe": "技能0000.",
+            "level": 0,
+            "cd_time": 0.0,
+            "hit_rate": 0.0,
+            "damage": 0.0,
+            "key": 97
+        },
+        {
+            "id": 3,
+            "name": "wq e",
+            "sprite_skill": {
+                "instanceID": 10628
+            },
+            "describe": "eq we",
+            "level": 0,
+            "cd_time": 0.0,
+            "hit_rate": 0.0,
+            "damage": 0.0,
+            "key": 97
+        }
+    ]
+}
