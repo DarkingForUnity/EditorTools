@@ -25,7 +25,7 @@ unity常用工具集合
 
 ---
 
-##### [QR](https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/QR)
+##### [QR Code](https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/QR)
 * 二维码生成器
 	* Local：本地生成；
 	* Network request ：请求草料二维码API ，返回二维码图片，需要网络
