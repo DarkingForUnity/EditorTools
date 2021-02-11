@@ -62,6 +62,9 @@ public class setBezierLine : EditorWindow
         }
         
     }
+
+
+
     private void OnInspectorUpdate()
     {
         Repaint();//重绘
